@@ -1,3 +1,2 @@
-# Cathiess.github.io
-Zhonghan_Hao_Portfolio
+# Cathiess Hao
 This is my portfolio and blog.
